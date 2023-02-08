@@ -1,0 +1,20 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "aplikasi crud nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getheboxs/nodeApp.git"
+  },
+  "author": "zakki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getheboxs/nodeApp/issues"
+  },
+  "homepage": "https://github.com/getheboxs/nodeApp#readme",
+  "type": "module"
+}
